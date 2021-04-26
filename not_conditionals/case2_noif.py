@@ -1,4 +1,4 @@
-from plans import (PlanSingle, PlanDuo, PlanFamily, PlanUniversity)
+from .plans import (PlanSingle, PlanDuo, PlanFamily, PlanUniversity)
 
 
 class Spotify:

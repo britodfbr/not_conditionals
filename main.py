@@ -1,8 +1,8 @@
-import case0_if
-import case01_dict
-import case1_get
-import case2_noif
-import case4_hof
+from not_conditionals import case0_if
+from not_conditionals import case01_dict
+from not_conditionals import case1_get
+from not_conditionals import case2_noif
+from not_conditionals import case4_hof
 
 
 
